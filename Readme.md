@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy [Elisabeth]  
 
-![Banner](https://i.imgur.com/dRZf3tX.png) 
+![Banner] 
 | _ \ _ () () __
 | |) | '__| \ \ / / | '_ \
 | __/| | | |\ V /| | | | |
